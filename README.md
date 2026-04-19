@@ -2,6 +2,17 @@
 Identification of Malware in PEs, PDFs &amp; IMAGES Using Machine Learning
 The tool (MAL-SEC) is made to identify benign and malicious PE, PDF and image files using machine learning. Front-end is made with HTML/CSS. Python and Flask are used for development.
 
+## Source Code & Requirements
+
+### 📦 Source Code
+The source code is **available on demand**.  
+Please reach out via email or the contact links below for access.
+
+### ⚙️ Requirements
+- Python < 3.12  
+
+> Recommended: Python 3.11 for best compatibility.
+> 
 ## Program Output
 ![](GUI_Pictures/ui3.png)
 ![](GUI_Pictures/ui4.png)
