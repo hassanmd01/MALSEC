@@ -10,9 +10,7 @@ Please reach out via email or the contact links below for access.
 
 ### ⚙️ Requirements
 - Python < 3.12  
-
-> Recommended: Python 3.11 for best compatibility.
-> 
+ 
 ## Program Output
 ![](GUI_Pictures/ui3.png)
 ![](GUI_Pictures/ui4.png)
