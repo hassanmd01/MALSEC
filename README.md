@@ -6,7 +6,7 @@ The tool (MAL-SEC) is made to identify benign and malicious PE, PDF and image fi
 
 ### 📦 Source Code
 The source code is **available on demand**.  
-Please reach out via email or the contact links below for access.
+Please reach out via Google Form below for access.
 
 ### ⚙️ Requirements
 - Python < 3.12  
@@ -29,16 +29,6 @@ Please reach out via email or the contact links below for access.
 
 - [@hassanmd01](https://github.com/hassanmd01)
 
-
-- 📫 How to reach me *hassan93mehmood@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hassanmehmood01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hassan_Mahmood" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassanmahmood01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hassan_Mahmood" height="30" width="40" /></a>
-<a href="https://instagram.com/hassanmehmood01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hassan_Mahmood" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hassanmahmood01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hassan_Mahmood" height="30" width="40" /></a>
-</p>
 
 ## License
 
